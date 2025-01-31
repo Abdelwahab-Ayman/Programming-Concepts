@@ -25,5 +25,5 @@ classDiagram
     }
 
 ```
-![Argument vs parameters](1_T6UlcjXb_PF-VyOdM7sQHQ.png)
+![Argument vs parameters](https://github.com/Abdelwahab-Ayman/Programming-Concepts/blob/main/Basics/Arguments%20Vs%20Parameters.png)
 
