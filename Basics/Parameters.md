@@ -26,4 +26,5 @@ classDiagram
 
 ```
 ![Argument vs parameters](https://github.com/Abdelwahab-Ayman/Programming-Concepts/blob/main/Basics/Arguments%20Vs%20Parameters.png)
-
+#### Parameters is the returning value of which is previously determined by the argument on what kind it can be and it`s value changing 
+#### on the contrast of Argument which don`t have value ,Parameter does have a value
