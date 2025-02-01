@@ -25,7 +25,17 @@ classDiagram
     }
 
 ```
-![Argument vs parameters](https://github.com/Abdelwahab-Ayman/Programming-Concepts/blob/main/Basics/Arguments%20Vs%20Parameters.png)
+| Aspect            | Parameter                                                     | Argument                                             |
+|-------------------|---------------------------------------------------------------|------------------------------------------------------|
+| Definitions       | A variable in the function declaration                        | The actual value passed to the function              |
+| Role              | Act as a placeholder for the value that will be passed        | Provide the actual data for the function             |
+| Location          | In the function definition                                    | In the Function calls                                |
+| Example           | "def add(x, y)"<br>return x + y<br>'x' and 'y' are parameters | "result = add(3 , 5)"<br>3 and 5 are arguments       |
+| Purpose           | To define the inputs that function expects                    | To provide the actual values to those inputs         |
+| Default Values    | Can have default values ,used if no arguments is provided     | Not applicable                                       |
+| Keyword Arguments | Not applicaple                                                | Can be specified by parameter name in function calls |
+
+
 #### Parameters is the returning value of which is previously determined by the argument on what kind it can be and it`s value changing on the contrast of Argument which don`t have value ,Parameter does have a value
 ```cpp
 #include<iostream>
